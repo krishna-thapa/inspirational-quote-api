@@ -5,7 +5,7 @@ resolvers += "Typesafe repository" at "https://repo.typesafe.com/typesafe/releas
 addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.8.16")
 
 // play swagger plugin - https://github.com/iheartradio/play-swagger
-addSbtPlugin("com.iheart" % "sbt-play-swagger" % "0.10.6-PLAY2.8")
+addSbtPlugin("com.iheart" % "sbt-play-swagger" % "0.10.8")
 
 // scalafmt plugin for scala formatter - https://github.com/scalameta/sbt-scalafmt
 // sbt scalafmtCheckAll
