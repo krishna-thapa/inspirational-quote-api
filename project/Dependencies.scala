@@ -13,7 +13,7 @@ object Dependencies {
     val akkaVersion = "2.6.19"
 
     // Database
-    val elastic4s = "7.9.1"
+    val elastic4s = "7.9.2"
     val playRedis = "2.7.0"
     val postgresql = "42.4.1"
 
