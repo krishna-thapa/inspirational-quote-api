@@ -5,7 +5,7 @@ object Dependencies {
 
   object Versions {
     val playSlick = "5.0.2"
-    val slickPg = "0.20.3"
+    val slickPg = "0.20.4"
     val swagger = "3.43.0"
     val playjwt = "5.0.0"
     val bcrypt = "4.3.0"
