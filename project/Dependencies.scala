@@ -10,7 +10,7 @@ object Dependencies {
     val playjwt = "5.0.0"
     val bcrypt = "4.3.0"
     val quartzScheduler = "1.9.3-akka-2.6.x"
-    val akkaVersion = "2.6.19"
+    val akkaVersion = "2.6.20"
 
     // Database
     val elastic4s = "7.9.1"
