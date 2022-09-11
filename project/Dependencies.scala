@@ -38,8 +38,8 @@ object Dependencies {
       "com.typesafe.akka" %% "akka-actor-typed" % Versions.akkaVersion,
       "com.typesafe.akka" %% "akka-serialization-jackson" % Versions.akkaVersion,
       "com.typesafe.akka" %% "akka-slf4j" % Versions.akkaVersion,
-      "com.lightbend.akka" %% "akka-stream-alpakka-csv" % "3.0.4",
-      "com.lightbend.akka" %% "akka-stream-alpakka-slick" % "3.0.4"
+      "com.lightbend.akka" %% "akka-stream-alpakka-csv" % "4.0.0",
+      "com.lightbend.akka" %% "akka-stream-alpakka-slick" % "4.0.0"
     )
 
     // Slick for the Postgres DB
