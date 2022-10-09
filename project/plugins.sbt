@@ -22,7 +22,7 @@ addDependencyTreePlugin
 
 // https://github.com/rtimush/sbt-updates
 // sbt dependencyUpdates
-addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.6.3")
+addSbtPlugin("com.timushev.sbt" % "sbt-updates" % "0.6.4")
 
 // https://github.com/DavidGregory084/sbt-tpolecat
 // addSbtPlugin("io.github.davidgregory084" % "sbt-tpolecat" % "0.1.20")
