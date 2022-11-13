@@ -7,7 +7,7 @@ object Dependencies {
     val playSlick = "5.0.2"
     val slickPg = "0.20.3"
     val swagger = "3.43.0"
-    val playjwt = "5.0.0"
+    val playjwt = "9.1.2"
     val bcrypt = "4.3.0"
     val quartzScheduler = "1.9.3-akka-2.6.x"
     val akkaVersion = "2.6.19"
@@ -28,7 +28,7 @@ object Dependencies {
 
   object Libraries {
     val swaggerUi = "org.webjars" % "swagger-ui" % Versions.swagger
-    val playJwt = "com.pauldijou" %% "jwt-play" % Versions.playjwt
+    val playJwt = "com.github.jwt-scala" %% "jwt-play" % Versions.playjwt
     val scalaBcrypt = "com.github.t3hnar" %% "scala-bcrypt" % Versions.bcrypt
     val quartzScheduler = "com.enragedginger" %% "akka-quartz-scheduler" % Versions.quartzScheduler
 
