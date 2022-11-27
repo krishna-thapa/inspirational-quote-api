@@ -15,7 +15,7 @@ object Dependencies {
     // Database
     val elastic4s = "7.9.1"
     val playRedis = "2.7.0"
-    val postgresql = "42.4.1"
+    val postgresql = "42.4.3"
 
     // tests
     val scalaPlayTest = "5.1.0"
